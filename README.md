@@ -5,7 +5,7 @@
 - 💬 Ask me about Communities and SwiftUI
 - 📫 How to reach me: Twitter
 
-https://www.buymeacoffee.com/melihgkmen
+<a href="https://www.buymeacoffee.com/melihgkmen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melihgkmen&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -22,6 +22,7 @@ https://www.buymeacoffee.com/melihgkmen
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  </br>
 </div>
 
 
