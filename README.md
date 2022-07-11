@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on İOS
 - 🌱 I’m currently learning SwiftUI and UIKit
 - 💬 Ask me about Communities and SwiftUI
-- 📫 How to reach me: Twitter
+- 📫 How to reach me: <a href="https://twitter.com/melih_gkmen">Twitter</a>
+
 
 <a href="https://www.buymeacoffee.com/melihgkmen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
@@ -22,9 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </br>
 </div>
-
+</br>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=melihgkmen&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
