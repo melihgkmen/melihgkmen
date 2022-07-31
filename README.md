@@ -26,5 +26,3 @@
 </div>
 </br>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=melihgkmen&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
